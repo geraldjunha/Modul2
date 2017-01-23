@@ -1,7 +1,9 @@
 # helloworld
 
 ###SCREENSHOT
-![SCREENSHOT 1](https://s30.postimg.org/6qgj3x4ip/image.png)
+![SCREENSHOT 1](https://s24.postimg.org/m9bw94x2d/Screenshot_38.png)
+![SCREENSHOT 1](https://s24.postimg.org/71b6tpzg5/Screenshot_39.png)
+
 
 ###DATA DIRI
 - NAMA : M.Gerald Junhakristama
