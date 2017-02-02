@@ -5,5 +5,9 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 
 }
+<div>
 
+   @Html.ActionLink("Signout", "SignOut", "Account")
+
+</div>
 <h2>Hi <b>@Context.User.Identity.Name</b>! Welcome to my first MVC 5 Web App!</h2> 
